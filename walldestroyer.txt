@@ -1625,7 +1625,7 @@ Buildings
     gain 25 alphaBricks
     gain 4 fifthBricks
     gain 350000 prePrestige
-    gain 16000 
+    gain 16000 artSpaceBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
