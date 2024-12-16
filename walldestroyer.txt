@@ -76,7 +76,7 @@ Resources
   hidden when 0
   class:veryimportantresource
 
-  *
+  *artSpaceBricks
   name:artificial space bricks
   tags:loseonreset resources
   hidden when 0
@@ -1642,7 +1642,7 @@ Buildings
     gain 40 alphaBricks
     gain 7 fifthBricks
     gain 450000 prePrestige
-    gain 64000 
+    gain 64000 artSpaceBricks
     gain 25400 artTimeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
