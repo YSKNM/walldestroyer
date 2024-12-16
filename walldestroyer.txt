@@ -76,7 +76,7 @@ Resources
   hidden when 0
   class:veryimportantresource
 
-  *artSpaceBricks
+  *
   name:artificial space bricks
   tags:loseonreset resources
   hidden when 0
@@ -1625,7 +1625,7 @@ Buildings
     gain 25 alphaBricks
     gain 4 fifthBricks
     gain 350000 prePrestige
-    gain 16000 artSpaceBricks
+    gain 16000 
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -1642,7 +1642,7 @@ Buildings
     gain 40 alphaBricks
     gain 7 fifthBricks
     gain 450000 prePrestige
-    gain 64000 artSpaceBricks
+    gain 64000 
     gain 25400 artTimeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
@@ -1994,7 +1994,7 @@ Buildings
   cost:150000000000000000000000000 money
   on tick:
     gain 11000000000000000000 money
-    gain 0.0000005787035 artSpaceBricks
+    gain 0.00006787035 artSpaceBricks
     gain 11000000000000000000 totalMoney
     gain 11000000000000000000 singularityDamage
   end
@@ -2010,7 +2010,7 @@ Buildings
   cost:123456789011121314151617181920 money, 50000000000000000 bricks
   on tick:
     gain 1200000000000000000000 money
-    gain 0.0000002314813998 artTimeBricks
+    gain 0.00003314813998 artTimeBricks
     gain 1200000000000000000000 totalMoney
     gain 1200000000000000000000 edgeBeingDamage
   end
